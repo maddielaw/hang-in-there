@@ -43,7 +43,6 @@ Create and display your own poster!
 - Add ability for users to expand size of saved posters
 
 
-
 ## Credits
 [Maddie's GitHub](https://github.com/maddielaw)
 
